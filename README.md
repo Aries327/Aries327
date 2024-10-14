@@ -1,5 +1,4 @@
-![I am Aries327](https://github.com/Aries327/Aries327/blob/main/code.[png)
-](https://github.com/Aries327/Aries327/blob/main/code.png)
+![I am Aries327](https://github.com/Aries327/Aries327/blob/main/code.png)
 <h1 align="center">Hi 👋, I'm Arko 5</h1>
 <h3 align="center">Programmer | Web Designer | Student | Quick Learner</h3>
 <h4 align="center">Student at Millennium Scolastic School & College (MSSC)</h4>
@@ -63,7 +62,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aries327&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aries327&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
